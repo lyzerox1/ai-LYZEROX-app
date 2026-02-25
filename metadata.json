@@ -1,0 +1,7 @@
+{
+  "name": "GeoGuide AI",
+  "description": "An interactive map-based chatbot that uses real-time Google Maps data to help you explore and find locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
